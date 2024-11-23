@@ -1,0 +1,12 @@
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\bin\Debug\PContato0030482413037.exe.config
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\bin\Debug\PContato0030482413037.exe
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\bin\Debug\PContato0030482413037.pdb
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.csproj.AssemblyReference.cache
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.frmPrincipal.resources
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.frmContato.resources
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.Properties.Resources.resources
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.csproj.GenerateResource.cache
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.csproj.CoreCompileInputs.cache
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.exe
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.pdb
+C:\Users\gusma\source\repos\PContato0030482413037\PContato0030482413037\obj\Debug\PContato0030482413037.frmSobre.resources
